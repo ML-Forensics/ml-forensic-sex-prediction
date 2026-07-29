@@ -1,0 +1,26 @@
+# Python / virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# CatBoost training artifacts (regenerated on every run)
+catboost_info/
+
+# Local tooling config (not part of the research deliverable)
+.claude/
+
+# Raw patient-level data — per the manuscript's Data Availability statement,
+# available from the corresponding author on reasonable request, not for
+# public redistribution.
+data/*.xlsx
+
+# Unpublished manuscript file — not for public distribution before/without
+# publisher permission. Swap in the published paper link in README.md instead.
+Revised\ manuscrpit.docx
+
+# Superseded draft figure, not produced by the current notebook
+Figure2_scenarios_overview.png
+
+# OS / editor cruft
+.DS_Store
+.ipynb_checkpoints/
