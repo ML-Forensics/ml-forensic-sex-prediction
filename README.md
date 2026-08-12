@@ -200,8 +200,8 @@ If you use this code or these findings, please cite:
   title   = {Machine Learning-Driven Forensic Sex Prediction Using CT-Based Nasal and Maxillary Sinus Metrics},
   author  = {Fakher, Haidy M. and Samir, Mohamed and Farag, Amina A. and Abo Elela, Nahed Ahmed Mahmoud and Abd-Elshafy, Shorouk Z. and Bayomy, Hanaa El-Sayed and Ghanem, Khaled M. and Shaltout, Eman S.},
   journal = {International Journal of Legal Medicine},
-  year    = {PASTE_YEAR},
-  doi     = {PASTE_DOI_HERE}
+  year    = 2026,
+  doi     = still in production
 }
 ```
 
