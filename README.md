@@ -185,15 +185,14 @@ schema. This repository provides the full analysis code and the aggregate result
 
 ## Citation
 
-<!-- TODO(Khaled): fill in the real DOI / volume / pages once published, or replace with the
-     journal's preferred citation export. -->
+
 
 If you use this code or these findings, please cite:
 
 > Fakher HM, Samir M, Farag AA, Abo Elela NAM, Abd-Elshafy SZ, Bayomy HE, Ghanem KM, Shaltout ES.
 > Machine Learning-Driven Forensic Sex Prediction Using CT-Based Nasal and Maxillary Sinus
-> Metrics. *International Journal of Legal Medicine*. [PASTE_YEAR];[PASTE_VOLUME]([PASTE_ISSUE]):[PASTE_PAGES].
-> doi: [PASTE_DOI_HERE](PASTE_PUBLISHED_LINK_HERE)
+> Metrics. *International Journal of Legal Medicine*. 2026.
+> doi: Still in production [PASTE_DOI_HERE](PASTE_PUBLISHED_LINK_HERE)
 
 ```bibtex
 @article{fakher_ml_forensic_sex,
@@ -210,12 +209,12 @@ If you use this code or these findings, please cite:
 | Author | Affiliation | Role |
 |---|---|---|
 | Haidy M. Fakher | Forensic Medicine & Clinical Toxicology, Benha University | Conceptualization, study design |
-| Mohamed Samir | Univ. of Greenwich; Zagazig University | Data collection |
-| Amina A. Farag | Forensic Medicine & Clinical Toxicology, Benha University | ML analysis, model development |
+| Mohamed Samir | Univ. of Greenwich; Zagazig University | ML supervision, critical revision  |
+| Amina A. Farag | Forensic Medicine & Clinical Toxicology, Benha University | Data collection |
 | Nahed A. M. Abo Elela | Radiology, Assiut University | Radiological assessment |
 | Shorouk Z. Abd-Elshafy | Radiology, Benha University | Radiological assessment |
 | Hanaa El-Sayed Bayomy | Community Medicine, Northern Border University / Benha University | Statistical analysis |
-| Khaled M. Ghanem | Faculty of Computers and Artificial Intelligence, Cairo University | ML supervision, critical revision |
+| Khaled M. Ghanem | Faculty of Computers and Artificial Intelligence, Cairo University | ML analysis, model development |
 | **Eman S. Shaltout** (Corresponding) | Forensic Medicine & Clinical Toxicology, Assiut University | ML analysis, manuscript writing |
 
 **Corresponding author:** Dr. Eman S. Shaltout — emansalahshaltout@aun.edu.eg ·
@@ -229,5 +228,5 @@ from all participants.
 
 ## License
 
-Code released under the [MIT License](LICENSE). This covers the analysis pipeline only — see
+Code released under the [MIT License](LICENSE). This covers the analysis pipeline only, see
 [Data Availability](#data-availability) for the dataset's terms of access.
