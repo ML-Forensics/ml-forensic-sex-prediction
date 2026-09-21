@@ -142,11 +142,11 @@ model to visualize male/female overlap per cohort.
 
 | Framework 1 — ROC & Confusion Matrices | Framework 2 — ROC & Confusion Matrices |
 |---|---|
-| ![Framework 1 results](figures/fig_new_framework1_roc_cm.png) | ![Framework 2 results](figures/fig_new_framework2_roc_cm.png) |
+| ![Framework 1 results](figures/fig_new_framework1_roc_cm.png?v=20260921) | ![Framework 2 results](figures/fig_new_framework2_roc_cm.png?v=20260921) |
 
 Feature-selection frequency across all top models:
 
-![Feature frequency](figures/fig_feature_frequency.png)
+![Feature frequency](figures/fig_feature_frequenc.png?v=20260921)
 
 All figures (including nMDS ordination and Venn diagrams of shared/unique features) are in
 [`figures/`](figures/).
