@@ -2,14 +2,14 @@
 
 The raw measurement file (`New data.xlsx`) is **not distributed in this repository**.
 
-Per the manuscript's Data Availability statement, the dataset (195 subjects: 100 females,
+Per the published article's [Data Availability statement](https://doi.org/10.1007/s00414-026-03951-6), the dataset (195 subjects: 100 females,
 95 males; Assiut n=104, Benha n=91) is available from the corresponding author on
 reasonable request, consistent with the study's ethics approval
 (Assiut University Committee on Research Ethics, Approval No. 04-2025-300570).
 
 To reproduce the pipeline locally:
 
-1. Request the dataset from the corresponding author (see main [README](../README.md#contact)).
+1. Request the dataset from the corresponding author (see [Authors](../README.md#authors) in the main README).
 2. Place it here as `data/New data.xlsx`.
 3. Run [`Final_code_v2.ipynb`](../Final_code_v2.ipynb) top to bottom.
 

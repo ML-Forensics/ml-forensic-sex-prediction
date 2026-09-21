@@ -1,15 +1,15 @@
-# Machine Learning-Driven Forensic Sex Prediction Using CT-Based Nasal and Maxillary Sinus Metrics
+# Machine learning-driven forensic sex prediction using CT-based nasal and maxillary sinus metrics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](requirements.txt)
-[![Journal](https://img.shields.io/badge/Journal-International%20Journal%20of%20Legal%20Medicine-8A2BE2)](#citation)
+[![Journal](https://img.shields.io/badge/Journal-International%20Journal%20of%20Legal%20Medicine-8A2BE2)](https://link.springer.com/article/10.1007/s00414-026-03951-6)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00414--026--03951--6-0F6AB4)](https://doi.org/10.1007/s00414-026-03951-6)
 
 Reproducible machine learning pipeline for sex estimation from CT-based nasal and maxillary
 sinus anthropometry in an Egyptian population, comparing two feature-selection /
 hyperparameter-tuning framework orderings across six classifiers.
 
-<!-- TODO(Khaled): replace with the live DOI link once the paper is published -->
-📄 **Published in** *International Journal of Legal Medicine* — [DOI link](PASTE_PUBLISHED_LINK_HERE)
+📄 **Published online:** 19 September 2026 in *International Journal of Legal Medicine*. **Article:** [Machine learning-driven forensic sex prediction using CT-based nasal and maxillary sinus metrics](https://doi.org/10.1007/s00414-026-03951-6)
 
 ---
 
@@ -185,22 +185,23 @@ schema. This repository provides the full analysis code and the aggregate result
 
 ## Citation
 
-
-
 If you use this code or these findings, please cite:
 
-> Fakher HM, Samir M, Farag AA, Abo Elela NAM, Abd-Elshafy SZ, Bayomy HE, Ghanem KM, Shaltout ES.
-> Machine Learning-Driven Forensic Sex Prediction Using CT-Based Nasal and Maxillary Sinus
-> Metrics. *International Journal of Legal Medicine*. 2026.
-> doi: Still in production [PASTE_DOI_HERE](PASTE_PUBLISHED_LINK_HERE)
+> Fakher HM, Samir M, Farag AA, Abo Elela NAM, Abdelshafy SZ, Bayomy HE, Ghanem KM, Shaltout ES.
+> Machine learning-driven forensic sex prediction using CT-based nasal and maxillary sinus
+> Metrics. *International Journal of Legal Medicine*. 2026. Published online September 19, 2026.
+> https://doi.org/10.1007/s00414-026-03951-6
 
 ```bibtex
 @article{fakher_ml_forensic_sex,
-  title   = {Machine Learning-Driven Forensic Sex Prediction Using CT-Based Nasal and Maxillary Sinus Metrics},
-  author  = {Fakher, Haidy M. and Samir, Mohamed and Farag, Amina A. and Abo Elela, Nahed Ahmed Mahmoud and Abd-Elshafy, Shorouk Z. and Bayomy, Hanaa El-Sayed and Ghanem, Khaled M. and Shaltout, Eman S.},
+  title   = {Machine learning-driven forensic sex prediction using {CT}-based nasal and maxillary sinus metrics},
+  author  = {Fakher, Haidy M. and Samir, Mohamed and Farag, Amina A. and Abo Elela, Nahed Ahmed Mahmoud and Abdelshafy, Shorouk Z. and Bayomy, Hanaa El-Sayed and Ghanem, Khaled M. and Shaltout, Eman S.},
   journal = {International Journal of Legal Medicine},
-  year    = 2026,
-  doi     = still in production
+  year    = {2026},
+  month   = sep,
+  day     = {19},
+  doi     = {10.1007/s00414-026-03951-6},
+  url     = {https://doi.org/10.1007/s00414-026-03951-6}
 }
 ```
 
@@ -212,7 +213,7 @@ If you use this code or these findings, please cite:
 | Mohamed Samir | Univ. of Greenwich; Zagazig University | ML supervision, critical revision  |
 | Amina A. Farag | Forensic Medicine & Clinical Toxicology, Benha University | Data collection |
 | Nahed A. M. Abo Elela | Radiology, Assiut University | Radiological assessment |
-| Shorouk Z. Abd-Elshafy | Radiology, Benha University | Radiological assessment |
+| Shorouk Z. Abdelshafy | Radiology, Benha University | Radiological assessment |
 | Hanaa El-Sayed Bayomy | Community Medicine, Northern Border University / Benha University | Statistical analysis |
 | Khaled M. Ghanem | Faculty of Computers and Artificial Intelligence, Cairo University | ML analysis, model development |
 | **Eman S. Shaltout** (Corresponding) | Forensic Medicine & Clinical Toxicology, Assiut University | ML analysis, manuscript writing |
